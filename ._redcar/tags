@@ -1,0 +1,5 @@
+1383228623
+process_erb	C:/ruby_view_server/server_advanced.rb	def process_erb(string, req = nil)
+process_erb	C:/ruby_view_server/page_generator_with_layout.rb	def process_erb(string)
+process_erb	C:/ruby_view_server/page_generator.rb	def process_erb(string)
+wrap_around_contents	C:/ruby_view_server/block_example.rb	def wrap_around_contents
